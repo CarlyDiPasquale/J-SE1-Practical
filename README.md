@@ -1,6 +1,14 @@
-<<<<<<< HEAD
-# J-SE1-Practical
-=======
+#TASK: 
+Using languages of your choice, build a web application.  We are open to how you want to approach this.  However, the primary interest is demonstrating an application that can have persistent state of some sort and allow a change in data.   Front-end + Back-end strongly preferred. 
+You must demonstrate proper test cases for your code. We are not evaluating based on code-coverage, but whether you understand proper testing strategy and usage.  Examples of both unit and integration testing are strongly recommended.
+	Note: Accendero Software does a significant amount of work in Javascript (React.JS in 	particular) and Python.  Demonstrating use of these languages will stand you in good 	stead and may place you above other candidates. However, you should approach this 	task with the tools you feel most comforatble with.   
+  
+#REQUIREMENTS:
+1.) Create a repo at the version control software of your choice (typically github) and invite ahoneycutt@accendero.com and zhulse@accendero.com so your code can be reviewed.
+2.) Please push code through the process rather than one large commit at the end.  We want to see your process as you develop.
+3.) Please provide a list of urls to all documentation that you used in the repository so we can review what secondary materials you consulted.  Using sites like stack overflow is allowed and even encouraged, but we need to see how you apply other people's solutions in your own problem solving.
+
+
 # Boilermaker
 
 _Good things come in pairs_
@@ -226,4 +234,3 @@ production server to be cluttered up with dev dependencies like
 git-tracking to be cluttered with production build files like
 `bundle.js`! By doing these steps, we make sure our development and
 production environments both stay nice and clean!
->>>>>>> boilermaker/master
